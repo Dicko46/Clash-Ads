@@ -1,6 +1,5 @@
 payload:
 # google
-  - '+.googlesyndication.com'
   - '+.googletagmanager.com'
   - '+.googletagservices.com'
   - '+mtalk.google.com'
@@ -55,3 +54,4 @@ payload:
   - '+.cek.to'
   - '+.klik.gg'
   - '+.wede.la'
+  - '+.track.afcpatrk.com'
