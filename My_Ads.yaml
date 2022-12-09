@@ -1,7 +1,7 @@
 payload:
 - 'adtago.s3.amazonaws.com'
 - 'analyticsengine.s3.amazonaws.com'
-- 'advice-ads.s3.amazonaws.com'
+- 'adviceads.s3.amazonaws.com'
 - 'affiliationjs.s3.amazonaws.com'
 - 'advertising-api-eu.amazon.com'
 - 'amazonaax.com'
@@ -14,3 +14,4 @@ payload:
 - 'ads.reddit.com'
 - 'tracking.india.miui.com'
 - 'tracking.rus.miui.com'
+- '02307d503f.7676f1cc6c.com'
